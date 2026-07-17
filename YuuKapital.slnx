@@ -1,5 +1,11 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/YuuKapital.Api/YuuKapital.Api.csproj" />
+    <Project Path="src/YuuKapital.Application/YuuKapital.Application.csproj" />
     <Project Path="src/YuuKapital.Domain/YuuKapital.Domain.csproj" />
+    <Project Path="src/YuuKapital.Infrastructure/YuuKapital.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/YuuKapital.Domain.Tests/YuuKapital.Domain.Tests.csproj" />
   </Folder>
 </Solution>
